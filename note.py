@@ -1,7 +1,6 @@
-import os
+
 from openai import OpenAI
-import tiktoken 
-import requests
+
 
 
 client = OpenAI(api_key = "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")
