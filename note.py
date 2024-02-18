@@ -3,7 +3,7 @@ from openai import OpenAI
 
 
 
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "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")
 
 
 def chat_gpt_query(prompt):
